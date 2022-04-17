@@ -21,6 +21,7 @@ const getAdvice = () => {
 
 const printOnScreen = async (pText, aSelec, data) => {
   pText.innerHTML = `"${data.slip.advice}"`;
+  aSelec.href = `https://twitter.com/intent/tweet?text=${pText.textContent}`;
 };
 
 getAdviceOnLoad();
