@@ -4,8 +4,8 @@
 
 | User Stories     | Andres | Fede |
 | ---------------- | :--: | ---: |
-| 1 The advice app must contain a container where the Advice text should go  |     |      |
-| 2 The advice app must have its container fully centered both horizontally and vertically  |      |     |
+| 1 The advice app must contain a container where the Advice text should go  |     |   X   |
+| 2 The advice app must have its container fully centered both horizontally and vertically  |      |  X  |
 | 3 The advice app must load an advice when it starts |    |      |
 | 4 The advice app must contain a clickable element with the following text: "Another One Please" and this should be centered just below the container for the advice  |     |      |
 | 5 The advice app must contain a clickable element with the icon for Twitter  |     |      |
