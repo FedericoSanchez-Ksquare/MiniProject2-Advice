@@ -39,3 +39,24 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.button-space {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin-top: 20px;
+
+}
+button {
+    padding: 3px;
+    background-color: white;
+    border-radius: 20px;
+    color: #008CBA;
+    font-weight: bolder;
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+    margin-right: 10px;
+    border: 2px solid #008CBA
+}
