@@ -12,4 +12,4 @@
 | 6 As a user when I click the element from US#4, I should see a new Advice in the app  |     |   X   |
 | 7 As a user when I click the element from US#5, I should be able to share the advice using Twitter  |  X  |      |
 | 8 The app should work and look fine in a 320px width viewport  |  X  |      |
-| 9 The background color should change to a random color whenever a new advice is loaded |     |      |
+| 9 The background color should change to a random color whenever a new advice is loaded |     |   X   |
