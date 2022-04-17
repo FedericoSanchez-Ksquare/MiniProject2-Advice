@@ -19,8 +19,8 @@ body {
 .advise-container {
     display: flex;
     flex-direction: column;
-    width: 30%;
-    height: 25%;
+    width: 45%;
+    height: auto;
     align-items: center;
     justify-content: center;
     background: linear-gradient(#e664bf, #7177bb);
