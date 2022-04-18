@@ -2,6 +2,8 @@
 
 #Advice app
 
+## Andres Cervera & Federico Shanchez
+
 | User Stories     | Andres | Fede |
 | ---------------- | :--: | ---: |
 | 1 The advice app must contain a container where the Advice text should go  |     |   X   |
@@ -13,3 +15,6 @@
 | 7 As a user when I click the element from US#5, I should be able to share the advice using Twitter  |  X  |      |
 | 8 The app should work and look fine in a 320px width viewport  |  X  |      |
 | 9 The background color should change to a random color whenever a new advice is loaded |     |   X   |
+
+
+## Demo: https://federicosanchez-ksquare.github.io/MiniProject2-Advice/
